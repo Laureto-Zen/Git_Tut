@@ -9,6 +9,7 @@ void solve(){
     int n,y,z;
     string m;
     cin>>n>>m;
+    int rand;
 
     int i=m.find('.');
     string m_z= m.substr(i+1);
